@@ -20,7 +20,8 @@ float pembagian(int a, int b) {
 }
 
 void inputdata() {
-
+    cout << "\nMasukkan bilangan pertama : ";
+    cin >> bilangan1;
 }
 
 int main()
