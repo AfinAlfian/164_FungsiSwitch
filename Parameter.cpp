@@ -13,6 +13,6 @@ int fungsiLuas(int p, int l) {
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    int panjang, lebar;
 }
 
