@@ -19,6 +19,10 @@ float pembagian(int a, int b) {
     return a / b;
 }
 
+void inputdata() {
+
+}
+
 int main()
 {
     std::cout << "Hello World!\n";
