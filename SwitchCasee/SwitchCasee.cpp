@@ -30,7 +30,7 @@ int main()
 {
     int pilihan;
     do {
-
+        system("CLS");
     }
 }
 
