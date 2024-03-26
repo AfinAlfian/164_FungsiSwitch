@@ -29,5 +29,8 @@ void inputdata() {
 int main()
 {
     int pilihan;
+    do {
+
+    }
 }
 
