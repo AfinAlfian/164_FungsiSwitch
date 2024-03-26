@@ -16,5 +16,7 @@ int main()
     int panjang, lebar;
     cout << "Masukkan panjang : ";
     cin >> panjang;
+    cout << "Masukkan Lebar : ";
+    cin >> lebar;
 }
 
